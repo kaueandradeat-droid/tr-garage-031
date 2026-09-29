@@ -1,0 +1,33 @@
+.products-section {
+  flex: 1;
+  padding: 24px 16px;
+  background: #000000;
+}
+
+.products-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.products-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.no-products {
+  text-align: center;
+  color: #999999;
+  padding: 40px 20px;
+  font-size: 16px;
+}
+
+@media (max-width: 480px) {
+  .products-section {
+    padding: 16px 12px;
+  }
+
+  .products-list {
+    gap: 14px;
+  }
+}
