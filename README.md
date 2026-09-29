@@ -1,2 +1,3 @@
-# tr-garage-031
-Site de vitrine de produtos automotivos TR GARAGE 031 com painel administrativo
+VITE_SUPABASE_URL=https://seu-projeto.supabase.co
+VITE_SUPABASE_ANON_KEY=sua-chave-anon
+VITE_ADMIN_PASSWORD=trgarage031
